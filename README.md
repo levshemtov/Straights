@@ -1,6 +1,6 @@
-# Straighs (CS246 Final Project)
+# Straights (CS246 Final Project)
 
-I made the game "straights," as described in [the specification document](./straights.pdf).
+I created this game as described in [the specification document](./straights.pdf).
 This game is written entirely in `C++`. Check out [a demo](./DD2-pdfs/demo/demo.pdf) for a tour of the various supported features.
 Take a look at the [design document](./DD2-pdfs/DesignDoc/design.pdf) for the project structure, design, and some other implementation details.
 
